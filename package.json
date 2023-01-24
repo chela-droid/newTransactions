@@ -1,7 +1,6 @@
 {
   "name": "newtransactions",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -20,5 +19,7 @@
   "dependencies": {
     "json-serve": "^0.1.0",
     "json-server": "^0.17.1"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
